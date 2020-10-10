@@ -1,0 +1,19 @@
+name: Akangsha's Blog
+description: Content Writing, anchoring and ideas.
+meta_description: Akangsha's Blog. Content Writing, anchoring and ideas.
+date: 2020
+permalink: /:year/:month/:day/:title
+
+markdown: kramdown
+highlighter: rouge
+
+logo: false
+paginate: 15
+baseurl: "/"
+# domain_name: "rosario.io"
+google_analytics: "UA-31897052-1"
+plugins: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url: "/"
+author: "Akangsha Banerjee"
